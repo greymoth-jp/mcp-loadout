@@ -2,6 +2,8 @@
 
 Turn your local MCP config into an RPG-style **"AI loadout"** share card.
 
+> ローカルのMCP設定をRPG風の装備カードSVGに変換するCLI。依存ゼロ・ネット送信ゼロ。「自分のMCP装備」を共有して相手の構成を聞く小ネタにも。
+
 Your agent is only as capable as the tools it's equipped with. `mcp-loadout` reads
 the MCP servers in your Claude config and renders them as an equipment / status
 screen — one server per slot, local vs. remote marked, total gear count up top.
