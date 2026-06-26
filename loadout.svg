@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f4f3ef"/>
+  <rect x="20" y="20" width="1160" height="635" fill="none" stroke="#111111" stroke-width="2"/>
+  <rect x="20" y="20" width="1160" height="64" fill="#111111"/>
+
+  <text x="44" y="63" font-family="'Courier New', monospace" font-size="30" font-weight="bold" letter-spacing="6" fill="#f4f3ef">MCP · LOADOUT</text>
+  <text x="1156" y="60" text-anchor="end" font-family="'Courier New', monospace" font-size="18" fill="#ff3b30">EQUIPPED</text>
+
+  <text x="70" y="150" font-family="Georgia, serif" font-size="56" font-weight="bold" fill="#111111">4 <tspan font-size="26" font-weight="normal" fill="#6a6862">servers equipped</tspan></text>
+  <text x="70" y="182" font-family="'Courier New', monospace" font-size="17" fill="#6a6862">4 local · 0 remote — your agent's gear</text>
+
+  
+    <g transform="translate(70, 210)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="22" fill="#cfcdc6">01</text>
+      <text x="54" y="0" font-family="'Courier New', monospace" font-size="20" fill="#ff3b30">■</text>
+      <text x="90" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="bold" fill="#111111">glovrex-company-post</text>
+      <text x="600" y="0" font-family="'Courier New', monospace" font-size="16" fill="#6a6862">node C:\Users\mhira\OneDrive\Desktop\x-conten…</text>
+      <line x1="0" y1="14" x2="1060" y2="14" stroke="#cfcdc6" stroke-width="1" stroke-dasharray="2 5"/>
+    </g>
+    <g transform="translate(70, 256)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="22" fill="#cfcdc6">02</text>
+      <text x="54" y="0" font-family="'Courier New', monospace" font-size="20" fill="#ff3b30">■</text>
+      <text x="90" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="bold" fill="#111111">codegraph</text>
+      <text x="600" y="0" font-family="'Courier New', monospace" font-size="16" fill="#6a6862">codegraph serve --mcp</text>
+      <line x1="0" y1="14" x2="1060" y2="14" stroke="#cfcdc6" stroke-width="1" stroke-dasharray="2 5"/>
+    </g>
+    <g transform="translate(70, 302)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="22" fill="#cfcdc6">03</text>
+      <text x="54" y="0" font-family="'Courier New', monospace" font-size="20" fill="#ff3b30">■</text>
+      <text x="90" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="bold" fill="#111111">pc_auto</text>
+      <text x="600" y="0" font-family="'Courier New', monospace" font-size="16" fill="#6a6862">python C:\Users\mhira\OneDrive\Desktop\microa…</text>
+      <line x1="0" y1="14" x2="1060" y2="14" stroke="#cfcdc6" stroke-width="1" stroke-dasharray="2 5"/>
+    </g>
+    <g transform="translate(70, 348)">
+      <text x="0" y="0" font-family="'Courier New', monospace" font-size="22" fill="#cfcdc6">04</text>
+      <text x="54" y="0" font-family="'Courier New', monospace" font-size="20" fill="#ff3b30">■</text>
+      <text x="90" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="bold" fill="#111111">toudai-roadmap</text>
+      <text x="600" y="0" font-family="'Courier New', monospace" font-size="16" fill="#6a6862">node C:/Users/mhira/OneDrive/Desktop/toudai-r…</text>
+      <line x1="0" y1="14" x2="1060" y2="14" stroke="#cfcdc6" stroke-width="1" stroke-dasharray="2 5"/>
+    </g>
+  
+
+  <line x1="70" y1="585" x2="1130" y2="585" stroke="#111111" stroke-width="1.5"/>
+  <text x="70" y="619" font-family="'Courier New', monospace" font-size="16" fill="#6a6862">■ local  ◉ remote</text>
+  <text x="70" y="641" font-family="'Courier New', monospace" font-size="13" fill="#9a988f">generated locally · nothing sent · mcp-loadout</text>
+  <text x="1130" y="641" text-anchor="end" font-family="'Courier New', monospace" font-size="13" fill="#ff3b30">whats your loadout?</text>
+</svg>
